@@ -1,0 +1,25 @@
+www.gifthoria.com - Çerez Bildirimi
+Son Güncelleme: 17.04.2025
+Çerez bildirimi, www.gifthoria.com adresini ziyaret eden ve kullanan kişileri bilgilendirmek amacıyla hazırlanmıştır.
+Çerez Nedir?
+Çerezler, bir internet sitesini ziyaret ettiğiniz zaman bilgisayar veya mobil cihazınızda saklanan ve söz konusu cihazın tespit edilmesine olanak sağlayan, çoğunlukla harf veya sayılardan oluşan küçük metin dosyalarıdır.
+Yukarıda bahsedilen adresin ziyaretçileri ve kullanıcılarıyla ilgili çerezler işleriz. Bununla birlikte adresler üzerinde hem birinci parti çerezler (doğrudan bizim tarafımızdan yerleştirilen) hem de üçüncü parti çerezler (bizim haricimizdeki sunucular tarafından yerleştirilen) kullanılmaktadır. Kullandığımız ve sorumluluğunu üstlendiğimiz birinci parti çerez türleri şu şekildedir:
+Zorunlu (Temel) Çerezler: Adreste yer alan fonksiyonların düzgün bir şekilde çalışabilmesi ve adres üzerinden sunulan hizmetin eksiksiz yerine getirilebilmesi için kullanımı zorunlu olan çerezlerdir. Örneğin, adreste oturum açtığınızda devreye giren kimlik doğrulama çerezleri, bir sayfadan diğerine geçişinizde etkin olan oturumunuzun devam etmesini sağlamaktadır. Bu çerezlerin devre dışı bırakılması fonksiyonların kullanılamaz hale gelmesine neden olabilir.
+Kalıcı Çerezler: Adresin işlevselliğini artırmak, ziyaretçilerimize daha hızlı ve iyi bir hizmet sunmak amacıyla kullanılan ve tarayıcılar vasıtasıyla tarafınızca silininceye dek veya son kullanım tarihine kadar geçerliliğini koruyan çerezlerdir. Bu tür çerezler, yaptığınız tercihleri hatırlamak ve kullanımınızı kişiselleştirmek için kullanır. Bu çerezler, kullanım parolanızı kaydeden ve oturumunuzun sürekli açık kalmasını sağlayan, böylece her ziyaretinizde birden fazla kez parola girme zahmetinden kurtaran, adresi daha sonraki ziyaretlerinizde sizi hatırlayan ve tanıyan çerezleri içerir.
+İşlevsel ve Analitik Çerezler: Adrese nereden bağlandığınız, hangi içeriği görüntülediğiniz ve ziyaretinizin süresi gibi adresi nasıl kullandığınızı belirlemek için kullanılan çerezlerdir.
+Hangi Çerezler Hangi Amaçlar ile Kullanılmaktadır?
+Gifthoria / Meral Güneş olarak yukarıda bahsi geçen adreslerde aşağıda belirtilen amaçlar ile sınırlı olmak kaydıyla Çerez Bildirimine konu adreslerde çerez verileri işlemekteyiz:
+•	Adresin çalışması için gerekli temel fonksiyonları gerçekleştirmek,
+•	Adresi analiz etmek ve performansını arttırmak.
+Çerez Kullanımını Nasıl Kontrol Edebilirsiniz?
+Adresimizi ziyaret etmek ve kullanmak için çerezlerin işlenmesi zorunlu değildir; tarayıcınızın ayarlarını değiştirerek çerezlere ilişkin tercihlerinizi kişiselleştirme imkânına sahipsiniz. Tarayıcınızı çerezleri engelleyecek şekilde ayarlamanız halinde, adresleri kullanmaya devam edebilirsiniz; ancak bu durumda adreslerdeki tüm fonksiyonlara erişiminiz sınırlı olabilir, kullanıcı deneyiminizin kalitesi düşebilir.
+Google Analytics	https://tools.google.com/dlpage/gaoptout
+Google Chrome	http://www.google.com/support/chrome/bin/answer.py?hl=enanswer=95647
+Internet Explorer	https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
+Mozilla Firefox	http://support.mozilla.com/en-US/kb/Cookies
+Opera	http://www.opera.com/browser/tutorials/security/privacy/
+Safari	https://support.apple.com/kb/ph19214?locale=tr TR
+
+
+
+
